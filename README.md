@@ -1,3 +1,6 @@
+## Note
+The images from the spec were not reproduced *exactly*; however, they are quite close except for some scaling differences and differences in the underlying data.
+
 ## Introduction
 
 This assignment uses data from
